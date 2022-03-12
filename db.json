@@ -1,0 +1,22 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "type": "cow",
+      "gender": "F",
+      "earTag": "342512",
+      "name": "Zafiro",
+      "birthday": "08/11/2019",
+      "dadEarTag": "239401",
+      "momEarTag": "122123",
+      "race": "Holstein",
+      "purpose": "milk"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "koscull"
+    }
+  ]
+}
