@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "type": "bovino",
+    "gender": "F",
+    "earTag": "342512",
+    "name": "Zafiro",
+    "birthday": "08/11/2019",
+    "momEarTag": "122123",
+    "dadEarTag": "239401",
+    "race": "Holstein",
+    "purpose": "milk"
+  },
+  {
+    "id": 1,
+    "type": "bovino",
+    "gender": "F",
+    "earTag": "242412",
+    "name": "Margarita",
+    "birthday": "06/09/2020",
+    "momEarTag": "879227",
+    "dadEarTag": "272451",
+    "race": "Brahma",
+    "purpose": "milk"
+  },
+
+  {
+    "id": 2,
+    "type": "bovino",
+    "gender": "M",
+    "earTag": "671264",
+    "name": "Gitano",
+    "birthday": "14/02/2019",
+    "momEarTag": null,
+    "dadEarTag": null,
+    "race": "Holstein",
+    "purpose": "milk"
+  },
+  {
+    "id": 2,
+    "type": "bovino",
+    "gender": "M",
+    "earTag": "455436",
+    "name": "Padrote",
+    "birthday": "08/04/2018",
+    "momEarTag": null,
+    "dadEarTag": null,
+    "race": "Angus",
+    "purpose": "meet"
+  },
+
+  {
+    "id": 1,
+    "type": "bovino",
+    "gender": "F",
+    "earTag": "37214",
+    "name": "Chigüi",
+    "birthday": "28/02/2022",
+    "momEarTag": "342512",
+    "dadEarTag": "671264",
+    "race": "Holsterin",
+    "purpose": "milk"
+  },
+  {
+    "id": 1,
+    "type": "bovino",
+    "gender": "M",
+    "earTag": "37214",
+    "name": "Manischewitz",
+    "birthday": "29/02/2022",
+    "momEarTag": "242412",
+    "dadEarTag": "455436",
+    "race": "Angus",
+    "purpose": "meet"
+  }
+]

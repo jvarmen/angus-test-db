@@ -7,10 +7,161 @@
       "earTag": "342512",
       "name": "Zafiro",
       "birthday": "08/11/2019",
-      "dadEarTag": "239401",
       "momEarTag": "122123",
+      "dadEarTag": "239401",
       "race": "Holstein",
       "purpose": "milk"
+    },
+    {
+      "id": 1,
+      "type": "bovino",
+      "gender": "F",
+      "earTag": "242412",
+      "name": "Margarita",
+      "birthday": "06/09/2020",
+      "momEarTag": "879227",
+      "dadEarTag": "272451",
+      "race": "Brahma",
+      "purpose": "milk"
+    },
+
+    {
+      "id": 2,
+      "type": "bovino",
+      "gender": "M",
+      "earTag": "671264",
+      "name": "Gitano",
+      "birthday": "14/02/2019",
+      "momEarTag": null,
+      "dadEarTag": null,
+      "race": "Holstein",
+      "purpose": "milk"
+    },
+    {
+      "id": 2,
+      "type": "bovino",
+      "gender": "M",
+      "earTag": "455436",
+      "name": "Padrote",
+      "birthday": "08/04/2018",
+      "momEarTag": null,
+      "dadEarTag": null,
+      "race": "Angus",
+      "purpose": "meet"
+    },
+
+    {
+      "id": 1,
+      "type": "bovino",
+      "gender": "F",
+      "earTag": "37214",
+      "name": "Chigüi",
+      "birthday": "28/02/2022",
+      "momEarTag": "342512",
+      "dadEarTag": "671264",
+      "race": "Holsterin",
+      "purpose": "milk"
+    },
+    {
+      "id": 1,
+      "type": "bovino",
+      "gender": "M",
+      "earTag": "37214",
+      "name": "Manischewitz",
+      "birthday": "29/02/2022",
+      "momEarTag": "242412",
+      "dadEarTag": "455436",
+      "race": "Angus",
+      "purpose": "meet"
+    }
+  ],
+  "milk": [
+    {
+      "id": 1,
+      "animalId": 1,
+      "date": "07/03/2022 05:56:12",
+      "value": 11
+    },
+    {
+      "id": 2,
+      "animalId": 2,
+      "date": "07/03/2022 05:40:12",
+      "value": 10
+    },
+    {
+      "id": 3,
+      "animalId": 1,
+      "date": "8/03/2022 05:56:12",
+      "value": 12
+    },
+    {
+      "id": 4,
+      "animalId": 2,
+      "date": "08/03/2022 05:40:12",
+      "value": 11
+    },
+    {
+      "id": 5,
+      "animalId": 2,
+      "date": "9/03/2022 05:56:12",
+      "value": 11
+    },
+    {
+      "id": 6,
+      "animalId": 1,
+      "date": "9/03/2022 05:40:12",
+      "value": 12
+    },
+    {
+      "id": 7,
+      "animalId": 2,
+      "date": "10/03/2022 05:56:12",
+      "value": 11
+    },
+    {
+      "id": 8,
+      "animalId": 1,
+      "date": "10/03/2022 05:40:12",
+      "value": 12
+    },
+    {
+      "id": 9,
+      "animalId": 2,
+      "date": "11/03/2022 05:56:12",
+      "value": 12
+    },
+
+    {
+      "id": 10,
+      "animalId": 1,
+      "date": "11/03/2022 05:40:12",
+      "value": 10
+    },
+    {
+      "id": 9,
+      "animalId": 2,
+      "date": "12/03/2022 05:56:12",
+      "value": 12
+    },
+
+    {
+      "id": 10,
+      "animalId": 1,
+      "date": "12/03/2022 05:40:12",
+      "value": 10
+    },
+    {
+      "id": 9,
+      "animalId": 2,
+      "date": "13/03/2022 05:56:12",
+      "value": 12
+    },
+
+    {
+      "id": 10,
+      "animalId": 1,
+      "date": "13/03/2022 05:40:12",
+      "value": 10
     }
   ],
   "users": [
